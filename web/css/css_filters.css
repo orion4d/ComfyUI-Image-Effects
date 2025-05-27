@@ -1,0 +1,23 @@
+.css-filters-node {
+    border: 2px solid #4CAF50 !important;
+    border-radius: 8px !important;
+    box-shadow: 0 4px 8px rgba(76, 175, 80, 0.3) !important;
+}
+
+.css-filters-node .litegraph-title {
+    background: linear-gradient(45deg, #2a4d3a, #4CAF50) !important;
+    color: white !important;
+    font-weight: bold !important;
+}
+
+/* Styles pour les sliders */
+.css-filters-node input[type="range"] {
+    background: #4CAF50 !important;
+    border-radius: 5px !important;
+}
+
+.css-filters-node input[type="range"]::-webkit-slider-thumb {
+    background: #ffffff !important;
+    border: 2px solid #4CAF50 !important;
+    border-radius: 50% !important;
+}

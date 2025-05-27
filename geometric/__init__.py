@@ -1,0 +1,1 @@
+"""Effets géométriques et patterns"""
