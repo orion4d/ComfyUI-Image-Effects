@@ -1,0 +1,15 @@
+[project]
+name = "image-effects"
+description = "Complete collection of image effects for ComfyUI - 32 nodes across 6 categories"
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["# Image Effects - Dépendances Python", "# Package de nœuds d'effets d'image pour ComfyUI", "# Bibliothèques de base", "numpy>=1.21.0", "torch>=1.9.0", "torchvision>=0.10.0", "# Traitement d'image", "opencv-python>=4.5.0", "Pillow>=8.0.0", "scipy>=1.7.0", "# Optionnel pour certains effets avancés", "scikit-image>=0.18.0", "matplotlib>=3.3.0", "# Pour les effets géométriques avancés", "shapely>=1.7.0", "# Accélération GPU (optionnel)", "cupy-cuda11x>=9.0.0; platform_system==\"Linux\""]
+
+[project.urls]
+Repository = "https://github.com/orion4d/ComfyUI-Image-Effects"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Image-Effects"
+Icon = ""
