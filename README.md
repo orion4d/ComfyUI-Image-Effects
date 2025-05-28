@@ -430,4 +430,11 @@ pip install -r requirements.txt</code></pre>
 
 <p><strong>Made with ❤️ for the ComfyUI community</strong></p>
 
+<p><strong>by Orion4D</strong></p>
+
+<a href="https://ko-fi.com/orion4d">
+<img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me A Coffee" height="41" width="174">
+</a>
+
 </div>
+
